@@ -1,0 +1,82 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+.container{
+    width: 1170px;
+    margin: auto;
+}
+.h1-head{
+    text-align: center;
+}
+.about-bd{
+   display: flex;
+}
+.button-1{
+    padding: 20px 50px;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    color: white;
+    background-image: linear-gradient(45deg,green,red,green);
+}
+.expalin-left{
+    width: 60%;
+
+}
+.expalin-right{
+    width: 40%;
+}
+.expalin{
+    width: 50%;
+}
+.map-bd-img{
+   width: 200px;
+}
+.expalin-right img{
+    width: 400px;
+}
+.section-2{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.h1-mid-head{
+    font-size: 30px;
+    
+}
+.about-Divisions{
+display: flex;
+justify-content: space-around;
+}
+.Divisions-image{
+width: 100%;
+}
+.Divisions-info{
+
+}
+.info-parent{
+    width: 300px;
+    text-align: center;
+    box-shadow: grey 10px 11px 20px 0px;
+}
+.info-parent p{
+    text-align: left;
+    margin: 0 10px;
+    margin-bottom: 50px;
+}
+.div-details-btn{
+    background-color:aqua;
+    color: black;
+    border: none;
+    padding: 10px 30px;
+    margin-bottom: 10px;
+    
+}
+footer{
+    margin: auto;
+    text-align: center;
+}
+.footer-content{
+    margin-top: 50px;
+}
